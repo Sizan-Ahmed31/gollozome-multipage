@@ -1,0 +1,14 @@
+.link-padding {
+    padding-right: 20px !important;
+}
+
+.fixed-img {
+    background-attachment: fixed;
+    background-size: cover;
+    min-height: 210px;
+    width: 100%;
+}
+
+.some-space {
+    margin-right: 0px !important;
+}

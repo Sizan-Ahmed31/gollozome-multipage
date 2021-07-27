@@ -1,0 +1,56 @@
+.link-padding {
+    padding-right: 20px !important;
+}
+
+.carousel-item {
+    height: 450px;
+    width: 100%;
+    background-size: cover;
+    /* background: url("https://moshiur.dev/projects/glozzom/img/image1.jpeg"); */
+}
+
+.margin-bottom {
+    margin-bottom: 70px;
+}
+
+.big-icon {
+    font-size: 45px;
+}
+
+.bg-img {
+    min-height: 250px;
+    width: 100%;
+    background-size: cover;
+    background-attachment: fixed;
+    position: relative;
+}
+
+.overlay {
+    background-color: rgba(0, 0, 0, 0.7);
+    position: absolute;
+    min-height: 250px;
+    width: 100%;
+}
+
+.custom-button {
+    color: red;
+    font-size: 50px;
+    margin-bottom: 22px;
+}
+
+
+/* .carousel-1 {
+    background-size: cover;
+    background-image: url("");
+    
+}
+
+.carousel-2 {
+    background-size: cover;
+    
+}
+
+.carousel-3 {
+    background-size: cover;
+    
+} */
